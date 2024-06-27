@@ -1,0 +1,6 @@
+
+- Possibilité pour un admin d'ajouter des questions.
+
+- Vérification de l'existence d'une question avant qu'un admin ajoute une réponse possible
+
+- Vérification de l'existence d'une réponse possible avant d'ajouter une réponse utilisateur
